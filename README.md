@@ -7,7 +7,7 @@ Create a solution using AWS S3 and CloudFront to serve static assets (images and
 1. Create an AWS account on Free Tier.
 	1. Setup a new AWS S3 bucket configured for static website hosting:
 	2. Set the bucket policy to allow public read-only access for all objects.
-	3. Upload the (/assets)[example assets in this repo] to your bucket.
+	3. Upload the [/assets](example assets in this repo) to your bucket.
 2. Create a CloudFront distribution with your S3 bucket as the origin:
 	1. Create behaviours to cache files according to their type using the path pattern feature:
 		1. JPG & PNG: 12 hours
