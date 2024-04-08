@@ -25,4 +25,4 @@ Document your setup in a Google Doc:
 - Include screenshots of all relevant config
 - Explain your working
 
-We'll let you know once we have reviewed your work so you can shut the account down.
+We'll let you know once we have reviewed your work so you can shut the AWS account down.
