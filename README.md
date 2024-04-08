@@ -21,6 +21,8 @@ Create a solution using AWS S3 and CloudFront to serve static assets (images and
 ## Delivery
 Document your setup in a Google Doc:
 
-- Include the login details to the AWS account
 - Include demo links for each file type
-- Include screenshots
+- Include screenshots of all relevant config
+- Explain your working
+
+We'll let you know once we have reviewed your work so you can shut the account down.
