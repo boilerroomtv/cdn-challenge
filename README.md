@@ -13,7 +13,7 @@ Create a solution using AWS S3 and CloudFront to serve static assets (images and
 		1. JPG & PNG: 12 hours
 		2. GIF: 24 hours
 		3. MP4: 48 hours
-	2. Setup 2 response policies that adds headers that instruct the browser how to cache files:
+	2. Setup 2 response policies that adds headers that instruct the browser how to cache files locally:
 		1. JPG & PNG: 24 hours
 		2. GIF & MP4: 72 hours
 	3. Configure the distribution to support HTTPS
@@ -22,7 +22,7 @@ Create a solution using AWS S3 and CloudFront to serve static assets (images and
 Document your setup in a Google Doc:
 
 - Include the login details to the AWS account
-- Include example demo links for each file type
+- Include demo links for each file type
 - Include screenshots of your behaviours & policies
 
 This challenge should not take longer than an hour to complete.
