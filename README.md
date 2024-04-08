@@ -23,6 +23,4 @@ Document your setup in a Google Doc:
 
 - Include the login details to the AWS account
 - Include demo links for each file type
-- Include screenshots of your behaviours & policies
-
-This challenge should not take longer than an hour to complete.
+- Include screenshots
